@@ -1,4 +1,7 @@
 # bunnylife-rulespanel
+
+Este repositorio contiene la presentación y documentación del proyecto. No incluye el código de la aplicación desplegada. Consultá [Seguridad](SECURITY.md) para reportar un problema de forma privada.
+
 Uso Autorizado – BunnyLife Rules Panel
 
 
